@@ -883,6 +883,7 @@ PRODUCT_PACKAGES += \
     HotwordEnrollmentXGoogleWCD9335 \
     Klik \
     qcrilmsgtunnel \
+    uceShimService \
     embms \
     QtiTelephonyService \
     SVIService \
